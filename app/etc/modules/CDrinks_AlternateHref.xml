@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <CDrinks_AlternateHref>
+            <active>true</active>
+            <codePool>community</codePool>
+        </CDrinks_AlternateHref>
+    </modules>
+</config>
